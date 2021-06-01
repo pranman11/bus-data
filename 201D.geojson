@@ -3,210 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "Name": "Madiwala Police Station",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.6206412,
-          12.9203064,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Madiwala Ayyappa Temple Bus Stop",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.6178904,
-          12.9247144,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Kendriya Sadan",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.6204967578328,
-          12.926008704103424,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Koramangala BDA Complex",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.62249058439888,
-          12.931221710092196,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Canara Bank Koramangala",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.62386190404844,
-          12.934201888803404,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "80ft road Juntcion,Koramangala",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.64119285827546,
-          12.974057078191514,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Inner Ring Road Ejipura Junction",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.63309379726158,
-          12.938630958349584,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Dell It Complex/Embassy Golf Links Business Park",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.63973494685817,
-          12.95125155684442,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Doopanahalli",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.64180519352317,
-          12.963213744517653,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "New Horizon School",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.64126884998433,
-          12.968703559846112,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "6th Main Road,Indiranagar",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.64099526467064,
-          12.974072233452297,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Indiranagar Police Station",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.64074867442957,
-          12.978567576258115,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "LineString",
@@ -515,6 +311,210 @@
             77.64085292816162,
             12.979300406693417
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Madiwala Police Station",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6206412,
+          12.9203064,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Madiwala Ayyappa Temple Bus Stop",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6178904,
+          12.9247144,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kendriya Sadan",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6204967578328,
+          12.926008704103424,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Koramangala BDA Complex",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.62249058439888,
+          12.931221710092196,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Canara Bank Koramangala",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.62386190404844,
+          12.934201888803404,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "80ft road Juntcion,Koramangala",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.64119285827546,
+          12.974057078191514,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Inner Ring Road Ejipura Junction",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.63309379726158,
+          12.938630958349584,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dell It Complex/Embassy Golf Links Business Park",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.63973494685817,
+          12.95125155684442,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Doopanahalli",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.64180519352317,
+          12.963213744517653,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Horizon School",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.64126884998433,
+          12.968703559846112,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "6th Main Road,Indiranagar",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.64099526467064,
+          12.974072233452297,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indiranagar Police Station",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.64074867442957,
+          12.978567576258115,
+          0
         ]
       }
     }
