@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "busNo": "201",
+        "description": "Srinagar",
+        "icon": "bus",
+        "busRouteUrl": "https://pranman11.github.io/bus-data/201.geojson",
+        "soundUrl": "https://drive.google.com/file/d/1sY63YXx7yfJuKaSDO0eVUUrPZ4IhR7QB/view?usp=sharing",
+        "journeySoundUrl": "https://drive.google.com/file/d/1D-v05T-Oc3nfIHvNcowSjZsnjmUwq6LV/view?usp=sharing",
+        "journeyReturnUrl": "https://drive.google.com/file/d/1wKbOFWGcq5Ckwicxrp6DAoofGlkzR7jO/view?usp=sharing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5541853904724,
+          12.94452555160944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busNo": "201B",
+        "description": "Girinagar Phase 2",
+        "icon": "bus",
+        "busRouteUrl": "https://pranman11.github.io/bus-data/201B.geojson",
+        "soundUrl": "",
+        "journeySoundUrl": "https://drive.google.com/file/d/1jdOncSIFX_-KMrQeTHcjOUwtaQhuR0PJ/view?usp=sharing",
+        "journeyReturnUrl": "https://drive.google.com/file/d/14SOFvXXsnevVQB8yEwc9MTx05CZ3HTpw/view?usp=sharing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.63102531433105,
+          12.924678916153951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busNo": "201C",
+        "description": "Banashankari TTMC",
+        "icon": "bus",
+        "busRouteUrl": "https://pranman11.github.io/bus-data/201C.geojson",
+        "soundUrl": "https://drive.google.com/file/d/1W4kIM2fOLZw0H3nOV70Y2rkLu4JhzzvE/view?usp=sharing",
+        "journeySoundUrl": "https://drive.google.com/file/d/1eKHFtrP5B8y88_KrDnfuBdnjMqjKf6xn/view?usp=sharing",
+        "journeyReturnUrl": "https://drive.google.com/file/d/17J59nC9vMolb6ApggtWu4PGsscIvPjOM/view?usp=sharing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.57308959960938,
+            12.917400723898771
+          ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busNo": "201D",
+        "description": "Madiwala Police Station",
+        "icon": "bus",
+        "busRouteUrl": "https://pranman11.github.io/bus-data/201D.geojson",
+        "soundUrl": "https://drive.google.com/file/d/1QLP31uCnQFURPMsCeE0lFoQdIR84NKtl/view?usp=sharing",
+        "journeySoundUrl": "https://drive.google.com/file/d/1U613wrBm0pLOOItjg7BF5-Cibhjb5DMm/view?usp=sharing",
+        "journeyReturnUrl": "https://drive.google.com/file/d/1U613wrBm0pLOOItjg7BF5-Cibhjb5DMm/view?usp=sharing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.62055397033691,
+          12.920496072962548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busNo": "201G",
+        "description": "Jeevan Bhima Nagar Depot",
+        "icon": "bus",
+        "busRouteUrl": "https://pranman11.github.io/bus-data/201G.geojson",
+        "soundUrl": "https://drive.google.com/file/d/1OlB48oYJx5dqJSHlEDUdUAkegAPotr7H/view?usp=sharing",
+        "journeySoundUrl": "https://drive.google.com/file/d/1M5Mgc0EW_Ynd9JiJDO6LFdH0ZJJ7nVOX/view?usp=sharing",
+        "journeyReturnUrl": "https://drive.google.com/file/d/1ksRKGe70_lt6JTb553sF-aOySdXyhIOM/view?usp=sharing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65466630458832,
+          12.966806692963083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busNo": "201K",
+        "description": "Ambedkar Terminal, Domlur",
+        "icon": "bus",
+        "busRouteUrl": "https://pranman11.github.io/bus-data/201K.geojson",
+        "soundUrl": "https://drive.google.com/file/d/1Y-009VAERqrgLnjLs15MttlWRn3AAESd/view?usp=sharing",
+        "journeySoundUrl": "https://drive.google.com/file/d/1-WIRxeVyc6MmxQ0eUuSvPKWJPG6_KC4Q/view?usp=sharing",
+        "journeyReturnUrl": "https://drive.google.com/file/d/1q4TifcKU7toG8yqz3fU5Dq1x-z6uRvJP/view?usp=sharing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.63849480969729,
+          12.961627168992925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busNo": "201M",
+        "description": "Hampinagar",
+        "icon": "bus",
+        "busRouteUrl": "https://pranman11.github.io/bus-data/201M.geojson",
+        "soundUrl": "https://drive.google.com/file/d/1fzFRkMbsq7Sn9i8SjyDzJrtRHsKh4qvO/view?usp=sharing",
+        "journeySoundUrl": "https://drive.google.com/file/d/1FftMk2cFbafegAYGpU2WnOgt7ZvUbBNF/view?usp=sharing",
+        "journeyReturnUrl": "https://drive.google.com/file/d/1fzFRkMbsq7Sn9i8SjyDzJrtRHsKh4qvO/view?usp=sharing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65475749969482,
+          12.967716298322783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busNo": "201Q",
+        "description": "Silk Road",
+        "icon": "bus",
+        "busRouteUrl": "https://pranman11.github.io/bus-data/201Q.geojson",
+        "soundUrl": "https://drive.google.com/file/d/1OlB48oYJx5dqJSHlEDUdUAkegAPotr7H/view?usp=sharing",
+        "journeySoundUrl": "https://drive.google.com/file/d/1NmwhcXnbIQSaTw5UcBeIDjLjdBdbQIEy/view?usp=sharing",
+        "journeyReturnUrl": "https://drive.google.com/file/d/1vdKuoIJ_gDrCxxAY7Rqn52HW6Oxo4Hzq/view?usp=sharing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.62224912643431,
+          12.918132735586159
+        ]
+      }
+    }
+  ]
+}
