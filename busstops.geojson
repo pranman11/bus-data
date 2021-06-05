@@ -8,9 +8,9 @@
         "description": "Srinagar",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201.geojson",
-        "soundUrl": "https://drive.google.com/file/d/1sY63YXx7yfJuKaSDO0eVUUrPZ4IhR7QB/view?usp=sharing",
-        "journeySoundUrl": "https://drive.google.com/file/d/1D-v05T-Oc3nfIHvNcowSjZsnjmUwq6LV/view?usp=sharing",
-        "journeyReturnUrl": "https://drive.google.com/file/d/1wKbOFWGcq5Ckwicxrp6DAoofGlkzR7jO/view?usp=sharing"
+        "soundUrl": "https://docs.google.com/uc?export=download&id=1sY63YXx7yfJuKaSDO0eVUUrPZ4IhR7QB",
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1D-v05T-Oc3nfIHvNcowSjZsnjmUwq6LV",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1wKbOFWGcq5Ckwicxrp6DAoofGlkzR7jO"
       },
       "geometry": {
         "type": "Point",
@@ -28,8 +28,8 @@
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201B.geojson",
         "soundUrl": "",
-        "journeySoundUrl": "https://drive.google.com/file/d/1jdOncSIFX_-KMrQeTHcjOUwtaQhuR0PJ/view?usp=sharing",
-        "journeyReturnUrl": "https://drive.google.com/file/d/14SOFvXXsnevVQB8yEwc9MTx05CZ3HTpw/view?usp=sharing"
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1jdOncSIFX_-KMrQeTHcjOUwtaQhuR0PJ",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=14SOFvXXsnevVQB8yEwc9MTx05CZ3HTpw"
       },
       "geometry": {
         "type": "Point",
@@ -46,9 +46,9 @@
         "description": "Banashankari TTMC",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201C.geojson",
-        "soundUrl": "https://drive.google.com/file/d/1W4kIM2fOLZw0H3nOV70Y2rkLu4JhzzvE/view?usp=sharing",
-        "journeySoundUrl": "https://drive.google.com/file/d/1eKHFtrP5B8y88_KrDnfuBdnjMqjKf6xn/view?usp=sharing",
-        "journeyReturnUrl": "https://drive.google.com/file/d/17J59nC9vMolb6ApggtWu4PGsscIvPjOM/view?usp=sharing"
+        "soundUrl": "https://docs.google.com/uc?export=download&id=1W4kIM2fOLZw0H3nOV70Y2rkLu4JhzzvE",
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1eKHFtrP5B8y88_KrDnfuBdnjMqjKf6xn",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=17J59nC9vMolb6ApggtWu4PGsscIvPjOM"
       },
       "geometry": {
         "type": "Point",
@@ -65,9 +65,9 @@
         "description": "Madiwala Police Station",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201D.geojson",
-        "soundUrl": "https://drive.google.com/file/d/1QLP31uCnQFURPMsCeE0lFoQdIR84NKtl/view?usp=sharing",
-        "journeySoundUrl": "https://drive.google.com/file/d/1U613wrBm0pLOOItjg7BF5-Cibhjb5DMm/view?usp=sharing",
-        "journeyReturnUrl": "https://drive.google.com/file/d/1U613wrBm0pLOOItjg7BF5-Cibhjb5DMm/view?usp=sharing"
+        "soundUrl": "https://docs.google.com/uc?export=download&id=1QLP31uCnQFURPMsCeE0lFoQdIR84NKtl",
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1U613wrBm0pLOOItjg7BF5-Cibhjb5DMm",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1U613wrBm0pLOOItjg7BF5-Cibhjb5DMm"
       },
       "geometry": {
         "type": "Point",
@@ -84,9 +84,9 @@
         "description": "Jeevan Bhima Nagar Depot",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201G.geojson",
-        "soundUrl": "https://drive.google.com/file/d/1OlB48oYJx5dqJSHlEDUdUAkegAPotr7H/view?usp=sharing",
-        "journeySoundUrl": "https://drive.google.com/file/d/1M5Mgc0EW_Ynd9JiJDO6LFdH0ZJJ7nVOX/view?usp=sharing",
-        "journeyReturnUrl": "https://drive.google.com/file/d/1ksRKGe70_lt6JTb553sF-aOySdXyhIOM/view?usp=sharing"
+        "soundUrl": "https://docs.google.com/uc?export=download&id=1OlB48oYJx5dqJSHlEDUdUAkegAPotr7H",
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1M5Mgc0EW_Ynd9JiJDO6LFdH0ZJJ7nVOX",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1ksRKGe70_lt6JTb553sF-aOySdXyhIOM"
       },
       "geometry": {
         "type": "Point",
@@ -103,9 +103,9 @@
         "description": "Ambedkar Terminal, Domlur",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201K.geojson",
-        "soundUrl": "https://drive.google.com/file/d/1Y-009VAERqrgLnjLs15MttlWRn3AAESd/view?usp=sharing",
-        "journeySoundUrl": "https://drive.google.com/file/d/1-WIRxeVyc6MmxQ0eUuSvPKWJPG6_KC4Q/view?usp=sharing",
-        "journeyReturnUrl": "https://drive.google.com/file/d/1q4TifcKU7toG8yqz3fU5Dq1x-z6uRvJP/view?usp=sharing"
+        "soundUrl": "https://docs.google.com/uc?export=download&id=1Y-009VAERqrgLnjLs15MttlWRn3AAESd",
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1-WIRxeVyc6MmxQ0eUuSvPKWJPG6_KC4Q",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1q4TifcKU7toG8yqz3fU5Dq1x-z6uRvJP"
       },
       "geometry": {
         "type": "Point",
@@ -122,9 +122,9 @@
         "description": "Hampinagar",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201M.geojson",
-        "soundUrl": "https://drive.google.com/file/d/1fzFRkMbsq7Sn9i8SjyDzJrtRHsKh4qvO/view?usp=sharing",
-        "journeySoundUrl": "https://drive.google.com/file/d/1FftMk2cFbafegAYGpU2WnOgt7ZvUbBNF/view?usp=sharing",
-        "journeyReturnUrl": "https://drive.google.com/file/d/1fzFRkMbsq7Sn9i8SjyDzJrtRHsKh4qvO/view?usp=sharing"
+        "soundUrl": "https://docs.google.com/uc?export=download&id=1fzFRkMbsq7Sn9i8SjyDzJrtRHsKh4qvO",
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1FftMk2cFbafegAYGpU2WnOgt7ZvUbBNF",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1fzFRkMbsq7Sn9i8SjyDzJrtRHsKh4qvO"
       },
       "geometry": {
         "type": "Point",
@@ -141,9 +141,9 @@
         "description": "Silk Road",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201Q.geojson",
-        "soundUrl": "https://drive.google.com/file/d/1OlB48oYJx5dqJSHlEDUdUAkegAPotr7H/view?usp=sharing",
-        "journeySoundUrl": "https://drive.google.com/file/d/1NmwhcXnbIQSaTw5UcBeIDjLjdBdbQIEy/view?usp=sharing",
-        "journeyReturnUrl": "https://drive.google.com/file/d/1vdKuoIJ_gDrCxxAY7Rqn52HW6Oxo4Hzq/view?usp=sharing"
+        "soundUrl": "https://docs.google.com/uc?export=download&id=1OlB48oYJx5dqJSHlEDUdUAkegAPotr7H",
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1NmwhcXnbIQSaTw5UcBeIDjLjdBdbQIEy",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1vdKuoIJ_gDrCxxAY7Rqn52HW6Oxo4Hzq"
       },
       "geometry": {
         "type": "Point",
