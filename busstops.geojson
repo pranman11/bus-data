@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201",
+		"steps" : 4800,
         "description": "Srinagar",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201.geojson",
@@ -24,6 +25,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201B",
+		"steps" : 5200,
         "description": "Girinagar Phase 2",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201B.geojson",
@@ -43,6 +45,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201C",
+		"steps" : 3200,
         "description": "Banashankari TTMC",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201C.geojson",
@@ -62,12 +65,13 @@
       "type": "Feature",
       "properties": {
         "busNo": "201D",
+		"steps" : 2600,
         "description": "Madiwala Police Station",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201D.geojson",
         "soundUrl": "https://docs.google.com/uc?export=download&id=1QLP31uCnQFURPMsCeE0lFoQdIR84NKtl",
         "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1U613wrBm0pLOOItjg7BF5-Cibhjb5DMm",
-        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1U613wrBm0pLOOItjg7BF5-Cibhjb5DMm"
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=10Vmc5nGKboQTcZPi6OfL6_kIs-xLw27J"
       },
       "geometry": {
         "type": "Point",
@@ -81,6 +85,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201G",
+		"steps" : 4000,
         "description": "Jeevan Bhima Nagar Depot",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201G.geojson",
@@ -100,6 +105,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201K",
+		"steps" : 3200,
         "description": "Ambedkar Terminal, Domlur",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201K.geojson",
@@ -119,6 +125,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201M",
+		"steps" : 4800,
         "description": "Hampinagar",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201M.geojson",
@@ -138,6 +145,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201Q",
+		"steps" : 3000,
         "description": "Silk Road",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201Q.geojson",
