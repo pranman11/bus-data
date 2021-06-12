@@ -125,7 +125,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201M",
-		"steps" : 5000,
+		"steps" : 5500,
         "description": "Hampinagar",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201M.geojson",
