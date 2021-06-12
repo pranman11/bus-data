@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "busNo": "201Q",
-		"steps" : 3000,
+		"steps" : 3200,
         "description": "Silk Road",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201Q.geojson",
