@@ -110,8 +110,8 @@
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201K.geojson",
         "soundUrl": "https://docs.google.com/uc?export=download&id=1Y-009VAERqrgLnjLs15MttlWRn3AAESd",
-        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1-WIRxeVyc6MmxQ0eUuSvPKWJPG6_KC4Q",
-        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=14y1SJJWfLnuKhZqbjFKbRhA5qYe-sma6"
+        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=14y1SJJWfLnuKhZqbjFKbRhA5qYe-sma6",
+        "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1-WIRxeVyc6MmxQ0eUuSvPKWJPG6_KC4Q"
       },
       "geometry": {
         "type": "Point",
