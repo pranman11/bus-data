@@ -10,7 +10,7 @@
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201.geojson",
         "soundUrl": "https://docs.google.com/uc?export=download&id=1sY63YXx7yfJuKaSDO0eVUUrPZ4IhR7QB",
-        "journeySoundUrl": "https://docs.google.com/uc?export=download&id=1D-v05T-Oc3nfIHvNcowSjZsnjmUwq6LV",
+        "journeySoundUrl": "../assets/201.mp3",
         "journeyReturnUrl": "https://docs.google.com/uc?export=download&id=1wKbOFWGcq5Ckwicxrp6DAoofGlkzR7jO"
       },
       "geometry": {
