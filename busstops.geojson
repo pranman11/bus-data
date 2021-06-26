@@ -9,7 +9,7 @@
         "description": "Srinagar",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201.geojson",
-        "soundUrl": "../assets/SRINAGAR.mp3",
+        "soundUrl": "/assets/SRINAGAR.mp3",
         "journeySoundUrl": "../assets/201/201-from-srinagar.mp3",
         "journeyReturnUrl": "../assets/201/201-to-srinagar.mp3"
       },
