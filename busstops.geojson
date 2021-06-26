@@ -30,8 +30,8 @@
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201B.geojson",
         "soundUrl": "",
-        "journeySoundUrl": "../assets/201B/201B-from-girinagar.mp3",
-        "journeyReturnUrl": "../assets/201B/201B-to-girinagar.mp3"
+        "journeySoundUrl": "/assets/201B/201B-from-girinagar.mp3",
+        "journeyReturnUrl": "/assets/201B/201B-to-girinagar.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -49,9 +49,9 @@
         "description": "Banashankari TTMC",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201C.geojson",
-        "soundUrl": "../assets/201C/BANASHANKARI.mp3",
-        "journeySoundUrl": "../assets/201C/201C-from-banashankari.mp3",
-        "journeyReturnUrl": "../assets/201C/201C-to-banashankari.mp3"
+        "soundUrl": "/assets/201C/BANASHANKARI.mp3",
+        "journeySoundUrl": "/assets/201C/201C-from-banashankari.mp3",
+        "journeyReturnUrl": "/assets/201C/201C-to-banashankari.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -69,9 +69,9 @@
         "description": "Madiwala Police Station",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201D.geojson",
-        "soundUrl": "../assets/201D/Madiwala.mp3",
-        "journeySoundUrl": "../assets/201D/201D-to-madiwala.mp3",
-        "journeyReturnUrl": "../assets/201D/201D-from-madiwala.mp3"
+        "soundUrl": "/assets/201D/Madiwala.mp3",
+        "journeySoundUrl": "/assets/201D/201D-to-madiwala.mp3",
+        "journeyReturnUrl": "/assets/201D/201D-from-madiwala.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -89,9 +89,9 @@
         "description": "Jeevan Bhima Nagar Depot",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201G.geojson",
-        "soundUrl": "../assets/201G/JEEVAN-BHIMA-NAGAR.mp3",
-        "journeySoundUrl": "../assets/201G/201G-from-JB-Nagar.mp3",
-        "journeyReturnUrl": "../assets/201G/201G-to-JB-Nagar.mp3"
+        "soundUrl": "/assets/201G/JEEVAN-BHIMA-NAGAR.mp3",
+        "journeySoundUrl": "/assets/201G/201G-from-JB-Nagar.mp3",
+        "journeyReturnUrl": "/assets/201G/201G-to-JB-Nagar.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -109,9 +109,9 @@
         "description": "Ambedkar Terminal, Domlur",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201K.geojson",
-        "soundUrl": "../assets/201K/DOMLUR.mp3",
-        "journeySoundUrl": "../assets/201K/201K-to-domlur.mp3",
-        "journeyReturnUrl": "../assets/201K/201K-from-domlur.mp3"
+        "soundUrl": "/assets/201K/DOMLUR.mp3",
+        "journeySoundUrl": "/assets/201K/201K-to-domlur.mp3",
+        "journeyReturnUrl": "/assets/201K/201K-from-domlur.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -129,9 +129,9 @@
         "description": "Hampinagar",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201M.geojson",
-        "soundUrl": "../assets/201M/HAMPINAGAR.mp3",
-        "journeySoundUrl": "../assets/201M/201M-from-hampinagar.mp3",
-        "journeyReturnUrl": "../assets/201M/201M-to-hampinagar.mp3"
+        "soundUrl": "/assets/201M/HAMPINAGAR.mp3",
+        "journeySoundUrl": "/assets/201M/201M-from-hampinagar.mp3",
+        "journeyReturnUrl": "/assets/201M/201M-to-hampinagar.mp3"
       },
       "geometry": {
         "type": "Point",
@@ -150,8 +150,8 @@
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201Q.geojson",
         "soundUrl": "",
-        "journeySoundUrl": "../assets/201Q/201Q-from-silk-road.mp3",
-        "journeyReturnUrl": "../assets/201Q/201Q-to-silk-road.mp3"
+        "journeySoundUrl": "/assets/201Q/201Q-from-silk-road.mp3",
+        "journeyReturnUrl": "/assets/201Q/201Q-to-silk-road.mp3"
       },
       "geometry": {
         "type": "Point",
