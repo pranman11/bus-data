@@ -69,7 +69,7 @@
         "description": "Madiwala Police Station",
         "icon": "bus",
         "busRouteUrl": "https://pranman11.github.io/bus-data/201D.geojson",
-        "soundUrl": "/assets/201D/Madiwala.mp3",
+        "soundUrl": "/assets/201D/MADIWALA.mp3",
         "journeySoundUrl": "/assets/201D/201D-to-madiwala.mp3",
         "journeyReturnUrl": "/assets/201D/201D-from-madiwala.mp3"
       },
